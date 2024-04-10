@@ -2,4 +2,4 @@ const greet = (name) => {
     console.log('Hello, ' + name);
   }
   
-  greet('Jane Doe');
+  greet('Krishnat Mahajan');
